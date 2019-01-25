@@ -12,6 +12,7 @@ const pkg = require('../package.json');
 const appName = `${pkg.name}-${pkg.version}`;
 
 module.exports = _.merge({}, config, {
+    mode: 'production',
     output: {
         path: path.resolve(__dirname, '../build/prod'),
     },

@@ -7,6 +7,7 @@ const config = require('./config.js');
 
 
 module.exports = _.merge({}, config, {
+  mode: 'development',
   output: {
     path: path.resolve(__dirname, '../build/dev'),
   },
