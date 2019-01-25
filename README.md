@@ -66,7 +66,6 @@ To run unit tests in CI scripts:
 
     /webpack           # webpack configuration files
 
-    .babelrc           # Babel configuration
     .eslintrc          # options for JS-linting
     circle.yml         # integration with CircleCI
     mykey.pem          # certificate file, YOU NEED TO GENERATE THIS FILE, see below
