@@ -10,7 +10,7 @@
 
 ### Installation:
 
-    git clone git@github.com:salsita/chrome-extension-skeleton.git
+    git clone git@github.com:gvelchev/chrome-extension-skeleton.git
 
     # in case you don't have webpack yet:
     sudo npm install -g webpack
