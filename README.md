@@ -1,6 +1,6 @@
 ## Skeleton for Google Chrome extensions
 
-* includes awesome messaging module
+* includes ReactJS
 * webpack-based build system
 * full ES6 support with Babel 6
 * linting using eslint with airbnb configuration
