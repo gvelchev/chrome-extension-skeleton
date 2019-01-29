@@ -1,6 +1,5 @@
 ## Skeleton for Google Chrome extensions
 
-* includes awesome messaging module
 * webpack-based build system
 * full ES6 support with Babel 6
 * linting using eslint with airbnb configuration
@@ -10,7 +9,7 @@
 
 ### Installation:
 
-    git clone git@github.com:salsita/chrome-extension-skeleton.git
+    git clone git@github.com:gvelchev/chrome-extension-skeleton.git
 
     # in case you don't have webpack yet:
     sudo npm install -g webpack
